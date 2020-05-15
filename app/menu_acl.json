@@ -1,0 +1,22 @@
+{
+	"Home" : "home",
+	"Features" : "features",
+	"Contacts" : {
+		"My Contacts":"contacts", 
+		"Add Contact":"contacts/add"
+	},
+	"Tools" : {	
+		"My Tools" : "tools", 
+		"Tool1" : "tools/first", 
+		"Tool2" : "tools/second", 
+		"separator" : "", 
+		"Tool3" : "tools/third"
+	},	
+	"Google" : "https://www.google.com",
+	"PHP Docs" : "http://php.net/manual/en",
+	"Register" : "register/register",
+	"Login" : "register/login",
+	"Logout" : "register/logout"
+	
+}
+
